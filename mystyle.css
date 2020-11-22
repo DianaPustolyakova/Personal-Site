@@ -1,0 +1,33 @@
+body
+{
+  background-color:#fbe9fb;
+}
+table {
+  background-color:#f0a3ef;
+}
+.yyy{
+     border-style: none;
+     border-top-style: double;
+     border-color: red;
+     border-width: 10px;
+     width: 75%;
+    }
+.ooo{
+     border-style: none;
+     border-top-style: double;
+     border-color: blue;
+     border-width: 10px;
+     width: 75%;
+    }
+h1 {
+  background-color:#981b97;
+}
+a:hover{
+  font-size: 20px
+}
+h3{
+  color: #d92a6c;
+}
+#t{
+  color: #820b68;
+}
